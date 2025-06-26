@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"4844afecbba4d811","type":"text","text":"O auge e a queda da série de demolidor","x":-234,"y":-66,"width":354,"height":50,"color":"#8f0000"},
+		{
+			"id":"8de0a7e0cf029fd3",
+			"type":"text",
+			"text":"Origem do Personagem",
+			"styleAttributes":{"textAlign":"center"},
+			"x":240,
+			"y":-200,
+			"width":240,
+			"height":50
+		}
+	],
+	"edges":[
+		{"id":"6c0b65cad32fbbf1","fromNode":"4844afecbba4d811","fromSide":"top","toNode":"8de0a7e0cf029fd3","toSide":"left","color":"#8f0000"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

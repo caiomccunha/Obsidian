@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "91ef223288123228",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a31affa0d56c69a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe61527fb7386bea",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Aprendendo/Aprendendo.canvas",
+                "viewState": {
+                  "x": 486.69868283656297,
+                  "y": -70.69260589344559,
+                  "zoom": -0.6666666666666667
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Aprendendo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7139a988d6fb5b0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7bf64019f4fbd90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "407728d16732b5a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "dff03554506ca962",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "f7db4645b2b3bd7d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "01c0843b66d8b0e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5a23096d5461f56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa833236feaebe43",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Teste de software/Planejamento de testes de Software.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Planejamento de testes de Software"
+            }
+          },
+          {
+            "id": "fa059972baa2a391",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Teste de software/Planejamento de testes de Software.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Planejamento de testes de Software"
+            }
+          },
+          {
+            "id": "6cc0fc311cf119ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "57ef7d073ddd0a41",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Teste de software/Planejamento de testes de Software.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Planejamento de testes de Software"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "fe61527fb7386bea",
+  "lastOpenFiles": [
+    "Sem título.md",
+    "Aprendendo/Aprendendo.canvas",
+    "Aprendendo/Aprendendo a usar o obsidian.md",
+    "Aprendendo",
+    "Teste de software/Planejamento de testes de Software.md",
+    "Teste de software"
+  ]
+}
