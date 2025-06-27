@@ -12,8 +12,8 @@
 			"height":50,
 			"color":"#8f0000"
 		},
-		{"id":"f96b137d224f518d","type":"file","file":"Bill Everett.jpg","x":810,"y":64,"width":151,"height":209},
-		{"id":"a5fbb66d6792554e","type":"file","file":"Stan Lee.jpg","x":470,"y":70,"width":150,"height":197},
+		{"id":"f96b137d224f518d","type":"file","file":"Aprendendo/Imagens/Bill Everett.jpg","x":810,"y":64,"width":151,"height":209},
+		{"id":"a5fbb66d6792554e","type":"file","file":"Aprendendo/Imagens/Stan Lee.jpg","x":470,"y":70,"width":150,"height":197},
 		{
 			"id":"b5a3e1a9bf03cd13",
 			"type":"text",
@@ -21,28 +21,6 @@
 			"styleAttributes":{"textAlign":"center"},
 			"x":550,
 			"y":-60,
-			"width":260,
-			"height":60,
-			"color":"#8f0000"
-		},
-		{
-			"id":"24194a1a88031344",
-			"type":"text",
-			"text":"Matt Murdock",
-			"styleAttributes":{},
-			"x":756,
-			"y":-260,
-			"width":260,
-			"height":60,
-			"color":"#8f0000"
-		},
-		{
-			"id":"2fe62489f3114441",
-			"type":"text",
-			"text":"Perdeu a visão em um acidente",
-			"styleAttributes":{},
-			"x":560,
-			"y":-500,
 			"width":260,
 			"height":60,
 			"color":"#8f0000"
@@ -57,7 +35,32 @@
 			"width":280,
 			"height":100,
 			"color":"#8f0000"
-		}
+		},
+		{"id":"5b5e78878af63f22","type":"file","file":"Aprendendo/Imagens/Primeira aparição.jpg","x":470,"y":-700,"width":168,"height":255,"color":"#8f0000"},
+		{
+			"id":"24194a1a88031344",
+			"type":"text",
+			"text":"Matt Murdock",
+			"styleAttributes":{"textAlign":"center"},
+			"x":701,
+			"y":-175,
+			"width":260,
+			"height":60,
+			"color":"#8f0000"
+		},
+		{
+			"id":"00103b269ab79d83",
+			"type":"text",
+			"text":"Antagonistas Principais\n",
+			"styleAttributes":{"textAlign":"center"},
+			"x":1036,
+			"y":-445,
+			"width":260,
+			"height":60,
+			"color":"#8f0000"
+		},
+		{"id":"bb3ec8b178235291","type":"file","file":"Aprendendo/Imagens/Bullseye.webp","x":1296,"y":-822,"width":185,"height":279,"color":"#8f0000"},
+		{"id":"009065b0580d89a1","type":"file","file":"Aprendendo/Imagens/KingPin.jpg","x":843,"y":-822,"width":193,"height":279,"color":"#8f0000"}
 	],
 	"edges":[
 		{"id":"6c0b65cad32fbbf1","fromNode":"4844afecbba4d811","fromSide":"top","toNode":"8de0a7e0cf029fd3","toSide":"left","color":"#8f0000"},
@@ -105,8 +108,12 @@
 		},
 		{
 			"id":"49404f9fe31c74a2",
-			"styleAttributes":{"arrow":"thin-triangle","path":"short-dashed"},
+			"styleAttributes":{
+				"arrow":"thin-triangle",
+				"path":null
+			},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"8de0a7e0cf029fd3",
 			"fromSide":"right",
 			"toNode":"24194a1a88031344",
@@ -114,13 +121,45 @@
 			"color":"#8f0000"
 		},
 		{
-			"id":"7ae2e873d769556c",
+			"id":"08f47790fe8f0795",
 			"styleAttributes":{},
 			"toFloating":false,
 			"fromNode":"cd2e46246b5f0f23",
 			"fromSide":"top",
-			"toNode":"2fe62489f3114441",
+			"toNode":"5b5e78878af63f22",
 			"toSide":"bottom",
+			"color":"#8f0000"
+		},
+		{
+			"id":"970343c7f75837de",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8de0a7e0cf029fd3",
+			"fromSide":"right",
+			"toNode":"00103b269ab79d83",
+			"toSide":"bottom",
+			"color":"#8f0000"
+		},
+		{
+			"id":"c715a9311ba71b6b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"bb3ec8b178235291",
+			"fromSide":"bottom",
+			"toNode":"00103b269ab79d83",
+			"toSide":"top",
+			"color":"#8f0000"
+		},
+		{
+			"id":"c6e62146ffe5046d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"009065b0580d89a1",
+			"fromSide":"bottom",
+			"toNode":"00103b269ab79d83",
+			"toSide":"top",
 			"color":"#8f0000"
 		}
 	],

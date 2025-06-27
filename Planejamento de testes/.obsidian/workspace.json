@@ -15,13 +15,37 @@
               "state": {
                 "file": "Aprendendo/Aprendendo.canvas",
                 "viewState": {
-                  "x": 310.0594290415503,
-                  "y": 204.88154517941229,
+                  "x": 465.8701939868717,
+                  "y": -192.29240111497836,
                   "zoom": -1.3333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Aprendendo"
+            }
+          },
+          {
+            "id": "a4be197016967f9b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Aprendendo/Imagens/Bill Everett.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Bill Everett"
+            }
+          },
+          {
+            "id": "d274fbdf191bbbf2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Aprendendo/Imagens/Bullseye.webp"
+              },
+              "icon": "lucide-image",
+              "title": "Bullseye"
             }
           }
         ]
@@ -81,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "01c0843b66d8b0e7",
@@ -174,10 +197,14 @@
   },
   "active": "fe61527fb7386bea",
   "lastOpenFiles": [
-    "Bill Everett.jpg",
-    "Aprendendo/Aprendendo.canvas",
-    "Stan Lee.jpg",
     "Sem título.md",
+    "Aprendendo/Imagens/Bullseye.webp",
+    "Aprendendo/Imagens/Bill Everett.jpg",
+    "Aprendendo/Aprendendo.canvas",
+    "Aprendendo/Imagens",
+    "Aprendendo/Imagens/KingPin.jpg",
+    "Aprendendo/Imagens/Primeira aparição.jpg",
+    "Aprendendo/Imagens/Stan Lee.jpg",
     "Aprendendo/Aprendendo a usar o obsidian.md",
     "Aprendendo",
     "Teste de software/Planejamento de testes de Software.md",
