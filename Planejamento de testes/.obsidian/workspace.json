@@ -15,9 +15,9 @@
               "state": {
                 "file": "Aprendendo/Aprendendo.canvas",
                 "viewState": {
-                  "x": 486.69868283656297,
-                  "y": -70.69260589344559,
-                  "zoom": -0.6666666666666667
+                  "x": 310.0594290415503,
+                  "y": 204.88154517941229,
+                  "zoom": -1.3333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "01c0843b66d8b0e7",
@@ -173,8 +174,10 @@
   },
   "active": "fe61527fb7386bea",
   "lastOpenFiles": [
-    "Sem título.md",
+    "Bill Everett.jpg",
     "Aprendendo/Aprendendo.canvas",
+    "Stan Lee.jpg",
+    "Sem título.md",
     "Aprendendo/Aprendendo a usar o obsidian.md",
     "Aprendendo",
     "Teste de software/Planejamento de testes de Software.md",

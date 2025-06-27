@@ -9,11 +9,120 @@
 			"x":240,
 			"y":-200,
 			"width":240,
-			"height":50
+			"height":50,
+			"color":"#8f0000"
+		},
+		{"id":"f96b137d224f518d","type":"file","file":"Bill Everett.jpg","x":810,"y":64,"width":151,"height":209},
+		{"id":"a5fbb66d6792554e","type":"file","file":"Stan Lee.jpg","x":470,"y":70,"width":150,"height":197},
+		{
+			"id":"b5a3e1a9bf03cd13",
+			"type":"text",
+			"text":"Criadores",
+			"styleAttributes":{"textAlign":"center"},
+			"x":550,
+			"y":-60,
+			"width":260,
+			"height":60,
+			"color":"#8f0000"
+		},
+		{
+			"id":"24194a1a88031344",
+			"type":"text",
+			"text":"Matt Murdock",
+			"styleAttributes":{},
+			"x":756,
+			"y":-260,
+			"width":260,
+			"height":60,
+			"color":"#8f0000"
+		},
+		{
+			"id":"2fe62489f3114441",
+			"type":"text",
+			"text":"Perdeu a visão em um acidente",
+			"styleAttributes":{},
+			"x":560,
+			"y":-500,
+			"width":260,
+			"height":60,
+			"color":"#8f0000"
+		},
+		{
+			"id":"cd2e46246b5f0f23",
+			"type":"text",
+			"text":"Primeira aparição em Daredevil #1 - abril de 1964",
+			"styleAttributes":{"textAlign":"center"},
+			"x":330,
+			"y":-360,
+			"width":280,
+			"height":100,
+			"color":"#8f0000"
 		}
 	],
 	"edges":[
-		{"id":"6c0b65cad32fbbf1","fromNode":"4844afecbba4d811","fromSide":"top","toNode":"8de0a7e0cf029fd3","toSide":"left","color":"#8f0000"}
+		{"id":"6c0b65cad32fbbf1","fromNode":"4844afecbba4d811","fromSide":"top","toNode":"8de0a7e0cf029fd3","toSide":"left","color":"#8f0000"},
+		{
+			"id":"912ad47c9c03976c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8de0a7e0cf029fd3",
+			"fromSide":"top",
+			"toNode":"cd2e46246b5f0f23",
+			"toSide":"bottom",
+			"color":"#8f0000"
+		},
+		{
+			"id":"cd0d58e354070f3e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8de0a7e0cf029fd3",
+			"fromSide":"right",
+			"toNode":"b5a3e1a9bf03cd13",
+			"toSide":"left",
+			"color":"#8f0000"
+		},
+		{
+			"id":"ad0c3a14280b8b9f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"b5a3e1a9bf03cd13",
+			"fromSide":"bottom",
+			"toNode":"a5fbb66d6792554e",
+			"toSide":"top",
+			"color":"#8f0000"
+		},
+		{
+			"id":"20b4a94141aa6868",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"b5a3e1a9bf03cd13",
+			"fromSide":"bottom",
+			"toNode":"f96b137d224f518d",
+			"toSide":"top",
+			"color":"#8f0000"
+		},
+		{
+			"id":"49404f9fe31c74a2",
+			"styleAttributes":{"arrow":"thin-triangle","path":"short-dashed"},
+			"toFloating":false,
+			"fromNode":"8de0a7e0cf029fd3",
+			"fromSide":"right",
+			"toNode":"24194a1a88031344",
+			"toSide":"left",
+			"color":"#8f0000"
+		},
+		{
+			"id":"7ae2e873d769556c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"cd2e46246b5f0f23",
+			"fromSide":"top",
+			"toNode":"2fe62489f3114441",
+			"toSide":"bottom",
+			"color":"#8f0000"
+		}
 	],
 	"metadata":{
 		"version":"1.0-1.0",
