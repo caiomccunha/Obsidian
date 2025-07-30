@@ -3,15 +3,18 @@
 	A de Agro - Versão 1.0;
 #  II - Objetivo do Teste:
 
-		Garantir que as funcionalidades de Cadastro de usuários, cadastro de demandas e postagem estejam funcionando corretamente, conforme os requesitos estabelecidos anteriormente.
+			Garantir que as funcionalidades de cadastro de usuários e cadastro de demandas estejam funcionando corretamente, conforme os requesitos estabelecidos anteriormente.
 
 # III - Escopo do teste:
 
 	- Funcionalidades que serão testadas: 
+	- Concluídas:
 		- Cadastro de usuários (POST);
 		- Edição de usuários (PUT);
 		- Exclusão de usuários (DELETE);
 		- Listagem de usuários (GET);
+		
+	- Em testes:
 		- Criação de demandas (POST);
 		- Edição de demandas (PUT);
 		- Exclusão de demandas (DELETE);
@@ -47,3 +50,18 @@
 		- 100% dos testes executados;
 		- Pelo menos 90% dos testes com sucesso;
 		- Nenhum erro crítico aberto;
+# VIII - Cronograma:
+ ![[Captura de tela 2025-07-03 182300.png]]
+# IX - Responsáveis:
+	- QA: Marcos Vinícius;
+	- Dev Backend : Caio Messi, Gabriel Souza;
+	- Dev Frontend: Lucas Reis, Wellington Junio, Victor Xavier;
+
+
+# Integrantes :
+	-Marcos Vinicíus;
+	-Caio Messi;
+	-Gabriel Souza;
+	-Wellington Junio;
+	-Lucas Reis;
+	-Victor Xavier.
